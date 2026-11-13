@@ -3,3 +3,5 @@ I'm adding something else!
 
 
 I'm adding something from third-branch!
+
+I'm adding another thing from third-branch!
